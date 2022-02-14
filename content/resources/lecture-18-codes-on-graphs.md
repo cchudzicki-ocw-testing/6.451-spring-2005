@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Codes on Graphs ([PDF](resources/chap11 "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 18: Codes on Graphs'
 uid: e5e282bd-c465-1935-5617-0b868434139f

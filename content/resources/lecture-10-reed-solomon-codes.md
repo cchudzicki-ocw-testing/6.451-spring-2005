@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Reed-Solomon Codes ([PDF](resources/chap8 "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10: Reed-Solomon Codes'
 uid: 3e5d741e-c462-b363-cfaf-c42b6369f678

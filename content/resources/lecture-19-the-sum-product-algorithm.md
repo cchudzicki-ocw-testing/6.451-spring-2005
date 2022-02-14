@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: The Sum-Product Algorithm ([PDF](resources/chap12 "Open in
+  a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 19: The Sum-Product Algorithm '
 uid: eed1563e-794f-269c-5921-25c3bcd253ce

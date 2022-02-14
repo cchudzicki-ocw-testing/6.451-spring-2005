@@ -7,7 +7,12 @@ description: This file contains solutions for problems on Euclidean division alg
   extended RS codes.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-451-principles-of-digital-communication-ii-spring-2005/8540577a1db1401cf40e82eda3a23148_ps5solns.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps5solns.pdf
+type: OCWFile
 uid: 8540577a-1db1-401c-f40e-82eda3a23148
 ---

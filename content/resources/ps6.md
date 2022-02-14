@@ -5,7 +5,12 @@ description: This file contains 6 problems on rational realizations, rational wh
   diagram, Hamming code, and Viterbi algorithm decoding of SPC codes.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-451-principles-of-digital-communication-ii-spring-2005/d358ff569378ab1825c189ee1a6e5777_ps6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps6.pdf
+type: OCWFile
 uid: d358ff56-9378-ab18-25c1-89ee1a6e5777
 ---

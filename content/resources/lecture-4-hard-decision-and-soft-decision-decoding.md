@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Hard-decision and Soft-decision Decoding ([PDF](resources/chap_5
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Hard-decision and Soft-decision Decoding'
 uid: c4eb2579-c9a4-e913-ac69-5873cdaf4c45

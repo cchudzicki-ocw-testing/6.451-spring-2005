@@ -5,7 +5,12 @@ description: This resource provides introduction to Shannon?s grand challenge an
   provides exercise and references for the above topics covered.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-451-principles-of-digital-communication-ii-spring-2005/28eebe8f610d548070dae1bf3f74b6cd_chap_1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+parent_title: Video Lectures
+parent_type: CourseSection
 resourcetype: Document
 title: chap_1.pdf
+type: OCWFile
 uid: 28eebe8f-610d-5480-70da-e1bf3f74b6cd
 ---

@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-451-principles-of-digital-communication-ii-spring-2005/178193a41c4ca1a94a8a14d5071bb71e_YegKLHb9TOU.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
+type: OCWFile
 uid: 178193a4-1c4c-a1a9-4a8a-14d5071bb71e
 ---

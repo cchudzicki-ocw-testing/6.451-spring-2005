@@ -5,7 +5,12 @@ description: This file contains 5 problems on BCJR (sum-product) decoding of SPC
   threshold, stability condition, and sum-product update rule for zero-sum nodes.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-451-principles-of-digital-communication-ii-spring-2005/81263d3a8c394108cb1e4be5b0b68cb0_ps9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps9.pdf
+type: OCWFile
 uid: 81263d3a-8c39-4108-cb1e-4be5b0b68cb0
 ---

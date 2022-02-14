@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Trellis Representations of Binary Linear Block Codes ([PDF](resources/chap10
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 15: Trellis Representations of Binary Linear Block Codes'
 uid: 7ad94965-787c-b2d3-8202-c3b259b46d83

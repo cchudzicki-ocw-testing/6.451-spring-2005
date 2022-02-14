@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Introduction to Convolutional Codes ([PDF](resources/chap9
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 14: Introduction to Convolutional Codes'
 uid: 6267f432-7a36-eff4-fe06-0220e38f8b92

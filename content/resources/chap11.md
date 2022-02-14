@@ -5,7 +5,12 @@ description: This resource contains notes on elementary realizations of linear b
   realizations, and classes of graphical realizations.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-451-principles-of-digital-communication-ii-spring-2005/52c980d47cfedb6cd0614524b04a6e5f_chap11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+parent_title: Video Lectures
+parent_type: CourseSection
 resourcetype: Document
 title: chap11.pdf
+type: OCWFile
 uid: 52c980d4-7cfe-db6c-d061-4524b04a6e5f
 ---

@@ -6,7 +6,12 @@ description: 'This resource gives the instructions on how to take the closed boo
   and statement for if they are true or false.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-451-principles-of-digital-communication-ii-spring-2005/e22f07b085a00cadb730d1f66da290e8_midterm02.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: midterm02.pdf
+type: OCWFile
 uid: e22f07b0-85a0-0cad-b730-d1f66da290e8
 ---

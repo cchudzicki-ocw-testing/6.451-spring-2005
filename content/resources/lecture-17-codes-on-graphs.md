@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: <p>Codes on Graphs (<a href="./resolveuid/52c980d47cfedb6cd0614524b04a6e5f"
+  target="_blank" title="Open in a new window.">PDF</a>)</p>
 resourcetype: Video
 title: 'Lecture 17: Codes on Graphs'
 uid: 1ffb818d-0630-053e-5f9b-6a9864f72bce

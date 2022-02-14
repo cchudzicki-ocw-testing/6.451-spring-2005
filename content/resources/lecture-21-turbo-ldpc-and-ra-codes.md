@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Turbo, LDPC, and RA Codes ([PDF](resources/chap13 "Open in
+  a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Turbo, LDPC, and RA Codes '
 uid: 020ef157-cdbf-b005-f756-497600e9763f

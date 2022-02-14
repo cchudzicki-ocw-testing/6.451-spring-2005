@@ -7,7 +7,12 @@ description: This resource contains notes on signal constellations for the AWGN 
   gain.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-451-principles-of-digital-communication-ii-spring-2005/9c669af76ebf74ffe46645541f1ff6b3_chap_5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+parent_title: Video Lectures
+parent_type: CourseSection
 resourcetype: Document
 title: chap_5.pdf
+type: OCWFile
 uid: 9c669af7-6ebf-74ff-e466-45541f1ff6b3
 ---

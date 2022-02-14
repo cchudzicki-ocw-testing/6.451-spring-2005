@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Introduction to Binary Block Codes ([PDF](resources/chap6
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Introduction to Binary Block Codes'
 uid: 252c928c-f9e5-e378-101a-4a3aea6b9112

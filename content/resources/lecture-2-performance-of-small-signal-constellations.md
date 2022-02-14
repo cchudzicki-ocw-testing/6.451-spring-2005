@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Performance of Small Signal Constellations ([PDF](resources/chap4
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Performance of Small Signal Constellations'
 uid: 556da27d-9fb5-f014-9419-ffd75e27d76b

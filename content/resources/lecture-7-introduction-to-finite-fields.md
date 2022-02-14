@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Introduction to Finite Fields ([PDF](resources/chap7 "Open
+  in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: Introduction to Finite Fields'
 uid: efc95bb7-4103-4a5d-7c42-63b837d2a7ce

@@ -2,6 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: 'Introduction ([PDF](resources/chap_1 "Open in a new window."))
+
+
+  Sampling Theorem and Orthonormal PAM/QAM ([PDF](resources/chap_2 "Open in a new
+  window."))
+
+
+  Capacity of AWGN Channels ([PDF](resources/chap_3 "Open in a new window."))'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: Introduction Sampling Theorem'
 uid: 4a96c050-6bb6-52c1-deef-5d8915fdfff8
