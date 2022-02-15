@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: midterm05solns.pdf
-type: OCWFile
 uid: d0677b8a-9357-5427-7f68-772bb75fec2d
 ---

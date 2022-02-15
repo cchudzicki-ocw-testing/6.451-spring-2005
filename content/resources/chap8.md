@@ -11,6 +11,5 @@ parent_title: Video Lectures
 parent_type: CourseSection
 resourcetype: Document
 title: chap8.pdf
-type: OCWFile
 uid: 01060b08-ba74-792e-e8d8-5eb82b9efdb4
 ---

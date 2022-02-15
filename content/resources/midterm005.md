@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: midterm005.pdf
-type: OCWFile
 uid: 7782bf3c-7b42-4f67-c3e1-afeb02c6d7d7
 ---

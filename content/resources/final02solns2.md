@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: final02solns2.pdf
-type: OCWFile
 uid: f96e2d91-0415-543f-5f3f-e39a80d006ba
 ---

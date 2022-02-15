@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: ps10solns.pdf
-type: OCWFile
 uid: 73f32807-ffae-5021-7bb8-43a0ecf0133d
 ---

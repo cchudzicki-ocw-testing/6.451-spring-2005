@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: midtermsol02.pdf
-type: OCWFile
 uid: 233218e3-2dcd-aa30-19f0-aba50e98414b
 ---

@@ -12,6 +12,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: midterm005.pdf
-type: OCWFile
 uid: df64fee0-e1d6-9bef-dd70-42d284f49396
 ---

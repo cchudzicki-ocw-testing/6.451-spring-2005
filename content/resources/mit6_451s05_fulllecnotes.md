@@ -9,6 +9,5 @@ parent_title: Readings and Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '6.451 S05: Complete Lecture Notes'
-type: OCWFile
 uid: bb895c1d-ee9c-e0b3-9d68-46e0aa984981
 ---

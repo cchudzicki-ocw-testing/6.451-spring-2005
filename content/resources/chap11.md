@@ -11,6 +11,5 @@ parent_title: Video Lectures
 parent_type: CourseSection
 resourcetype: Document
 title: chap11.pdf
-type: OCWFile
 uid: 52c980d4-7cfe-db6c-d061-4524b04a6e5f
 ---

@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: final05solns.pdf
-type: OCWFile
 uid: b3a4aba6-e9af-f98b-7fef-d0b83bcadd1f
 ---

@@ -12,6 +12,5 @@ parent_title: Video Lectures
 parent_type: CourseSection
 resourcetype: Document
 title: chap9.pdf
-type: OCWFile
 uid: 43162a4e-10d7-3639-9032-82f4dd58001b
 ---

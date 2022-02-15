@@ -12,6 +12,5 @@ parent_title: Video Lectures
 parent_type: CourseSection
 resourcetype: Document
 title: chap14.pdf
-type: OCWFile
 uid: 5507a583-2ab1-c9b4-89ea-100d9e2dd2bf
 ---
