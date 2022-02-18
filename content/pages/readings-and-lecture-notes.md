@@ -9,7 +9,7 @@ uid: 429ef237-4ae2-6213-2915-f2fbc03ca463
 Lecture Notes
 -------------
 
-Full lecture notes are [available (PDF - 3.1MB)]({{< baseurl >}}/resources/mit6_451s05_fulllecnotes).
+Full lecture notes are {{< resource_link bb895c1d-ee9c-e0b3-9d68-46e0aa984981 "available (PDF - 3.1MB)" >}}.
 
 Reference Texts
 ---------------
