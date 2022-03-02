@@ -24,7 +24,7 @@ Prerequisite
 Text
 ----
 
-None required. Course notes are provided in the {{< resource_link 73f9a1c9-1575-f1a3-abda-44e7358df3a2 "Video Lectures" >}} section.
+None required. Course notes are provided in the {{% resource_link 73f9a1c9-1575-f1a3-abda-44e7358df3a2 "Video Lectures" %}} section.
 
 Course Handouts
 ---------------
