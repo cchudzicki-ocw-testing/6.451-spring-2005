@@ -9,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Hard-decision and Soft-decision Decoding ([PDF](resources/chap_5
-  "Open in a new window."))
+related_resources_text: Hard-decision and Soft-decision Decoding ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap_5))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Hard-decision and Soft-decision Decoding'

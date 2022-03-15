@@ -9,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Performance of Small Signal Constellations ([PDF](resources/chap4
-  "Open in a new window."))
+related_resources_text: Performance of Small Signal Constellations ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap4))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Performance of Small Signal Constellations'

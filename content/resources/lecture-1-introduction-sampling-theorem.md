@@ -9,14 +9,13 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: 'Introduction ([PDF](resources/chap_1 "Open in a new window."))
+related_resources_text: 'Introduction ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap_1))
 
 
-  Sampling Theorem and Orthonormal PAM/QAM ([PDF](resources/chap_2 "Open in a new
-  window."))
+  Sampling Theorem and Orthonormal PAM/QAM ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap_2))
 
 
-  Capacity of AWGN Channels ([PDF](resources/chap_3 "Open in a new window."))'
+  Capacity of AWGN Channels ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap_3))'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: Introduction Sampling Theorem'

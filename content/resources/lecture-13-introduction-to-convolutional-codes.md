@@ -9,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Introduction to Convolutional Codes ([PDF](resources/chap9
-  "Open in a new window."))
+related_resources_text: Introduction to Convolutional Codes ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap9))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 13: Introduction to Convolutional Codes'

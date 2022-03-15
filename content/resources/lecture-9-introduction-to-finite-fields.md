@@ -9,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Introduction to Finite Fields ([PDF](resources/chap7 "Open
-  in a new window."))
+related_resources_text: Introduction to Finite Fields ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap7))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9: Introduction to Finite Fields'
