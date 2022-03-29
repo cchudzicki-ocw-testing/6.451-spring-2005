@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Trellis Representations of Binary Linear Block Codes ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap10))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Trellis Representations of Binary Linear Block Codes'
 uid: 63d8c331-665d-6d67-09d7-d99954f6aef5
 video_files:

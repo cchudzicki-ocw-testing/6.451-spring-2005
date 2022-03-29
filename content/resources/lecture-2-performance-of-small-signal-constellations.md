@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Performance of Small Signal Constellations ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap4))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Performance of Small Signal Constellations'
 uid: 556da27d-9fb5-f014-9419-ffd75e27d76b
 video_files:

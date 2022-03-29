@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Introduction to Finite Fields ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap7))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Introduction to Finite Fields'
 uid: efc95bb7-4103-4a5d-7c42-63b837d2a7ce
 video_files:

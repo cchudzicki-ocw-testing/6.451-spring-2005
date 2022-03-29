@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: The Sum-Product Algorithm ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap12))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: The Sum-Product Algorithm '
 uid: eed1563e-794f-269c-5921-25c3bcd253ce
 video_files:

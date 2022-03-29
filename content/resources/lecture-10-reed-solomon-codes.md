@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Reed-Solomon Codes ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap8))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Reed-Solomon Codes'
 uid: 3e5d741e-c462-b363-cfaf-c42b6369f678
 video_files:

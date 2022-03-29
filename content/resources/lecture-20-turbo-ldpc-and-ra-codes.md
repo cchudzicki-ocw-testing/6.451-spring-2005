@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Turbo, LDPC, and RA Codes ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap13))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Turbo, LDPC, and RA Codes '
 uid: 5e8ab454-8fc6-d339-0fbe-42b4f5ee6edb
 video_files:

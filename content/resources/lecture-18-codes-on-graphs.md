@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Codes on Graphs ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap11))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Codes on Graphs'
 uid: e5e282bd-c465-1935-5617-0b868434139f
 video_files:

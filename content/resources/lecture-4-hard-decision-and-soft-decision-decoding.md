@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Hard-decision and Soft-decision Decoding ([PDF](/courses/6-451-principles-of-digital-communication-ii-spring-2005/resources/chap_5))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Hard-decision and Soft-decision Decoding'
 uid: c4eb2579-c9a4-e913-ac69-5873cdaf4c45
 video_files:
