@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Linear Gaussian Channels
 
 **Instructor:** Prof. David Forney
+

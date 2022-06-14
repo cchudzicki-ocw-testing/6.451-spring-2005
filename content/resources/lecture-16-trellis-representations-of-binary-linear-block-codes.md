@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Trellis Representations of Binary Linear Block Codes
 
 **Instructor:** Prof. David Forney
+

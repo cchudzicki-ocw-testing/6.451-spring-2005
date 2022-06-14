@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Turbo, LDPC, and RA Codes
 
 **Instructor:** Prof. David Forney
+

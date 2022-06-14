@@ -29,3 +29,4 @@ video_metadata:
 **Topics covered:** Lattice and Trellis Codes
 
 **Instructor:** Prof. David Forney
+

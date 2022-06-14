@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Introduction to Binary Block Codes
 
 **Instructor:** Prof. David Forney
+

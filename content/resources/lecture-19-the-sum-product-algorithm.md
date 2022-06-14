@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** The Sum-Product Algorithm
 
 **Instructor:** Prof. David Forney
+

@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Hard-decision and Soft-decision Decoding
 
 **Instructor:** Prof. David Forney
+

@@ -34,3 +34,4 @@ video_metadata:
 **Topics covered:** Introduction Sampling Theorem and Orthonormal PAM/QAM Capacity of AWGN Channels
 
 **Instructor:** Prof. David Forney
+
