@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The assignment contains information about the number of problem sets
+  to be covered for this course and the associateed files containing these problems
+  and solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

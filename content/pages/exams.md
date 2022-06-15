@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The exam section contains the current semester's Midterm exam, as well
+  as the Midterm and Final from past versions of the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

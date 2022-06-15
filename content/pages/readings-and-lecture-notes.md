@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The readings section contains the list of reference texts to be used
+  for better understanding of this course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings and Lecture Notes
