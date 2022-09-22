@@ -7,6 +7,7 @@ file: /courses/6-451-principles-of-digital-communication-ii-spring-2005/01060b08
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
